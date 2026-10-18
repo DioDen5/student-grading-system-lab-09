@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+*.db
+.venv/
+.DS_Store
+/rendered/
+/rendered-*/
+Lab_09/report/assets/*.png
